@@ -1,0 +1,1476 @@
+[
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077: Phantom Liberty",
+    "slug": "cyberpunk-2077",
+    "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "CD Projekt RED",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Sci-Fi"
+    ],
+    "tags": [
+      "Ray Tracing",
+      "Demanding",
+      "Cyberpunk",
+      "Story Rich"
+    ],
+    "popularityRank": 1,
+    "minimum": {
+      "cpuName": "Intel Core i7-6700 / AMD Ryzen 5 1600",
+      "cpuScore": 8000,
+      "gpuName": "NVIDIA GTX 1060 6GB / AMD Radeon RX 580",
+      "gpuScore": 4800,
+      "vramGb": 6,
+      "ramGb": 12,
+      "storageGb": 70,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-12700 / AMD Ryzen 7 7800X",
+      "cpuScore": 20000,
+      "gpuName": "NVIDIA RTX 2060 Super / RTX 3060 12GB / RX 6700 XT",
+      "gpuScore": 9500,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 70,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "deus-ex-hr",
+        "title": "Deus Ex: Human Revolution",
+        "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action RPG",
+          "Cyberpunk",
+          "Stealth"
+        ],
+        "vibeReason": "Shares the gritty cyberpunk atmosphere, cyberware augmentations, and deep freedom of approach.",
+        "minRamGb": 4,
+        "minGpuScore": 1200,
+        "minCpuScore": 3000
+      },
+      {
+        "id": "fallout-new-vegas",
+        "title": "Fallout: New Vegas",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "RPG",
+          "Shooter"
+        ],
+        "vibeReason": "Legendary first-person open world RPG with unparalleled narrative branching and character builds.",
+        "minRamGb": 4,
+        "minGpuScore": 1000,
+        "minCpuScore": 2500
+      },
+      {
+        "id": "the-ascent",
+        "title": "The Ascent",
+        "coverImage": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action RPG",
+          "Cyberpunk",
+          "Twin-Stick"
+        ],
+        "vibeReason": "Breathtaking neon dystopian aesthetic with explosive combat and RPG progression.",
+        "minRamGb": 8,
+        "minGpuScore": 3500,
+        "minCpuScore": 5500
+      }
+    ]
+  },
+  {
+    "id": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "slug": "black-myth-wukong",
+    "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2024,
+    "developer": "Game Science",
+    "genres": [
+      "Action RPG",
+      "Souls-like",
+      "Mythology"
+    ],
+    "tags": [
+      "Unreal Engine 5",
+      "Extremely Heavy",
+      "Boss Rush"
+    ],
+    "popularityRank": 2,
+    "minimum": {
+      "cpuName": "Intel Core i5-8400 / AMD Ryzen 5 1600",
+      "cpuScore": 7800,
+      "gpuName": "NVIDIA GTX 1060 6GB / AMD RX 580 8GB",
+      "gpuScore": 4600,
+      "vramGb": 6,
+      "ramGb": 16,
+      "storageGb": 130,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-9700 / AMD Ryzen 5 5500",
+      "cpuScore": 14000,
+      "gpuName": "NVIDIA RTX 2060 / RX 5700 XT / RTX 4060",
+      "gpuScore": 8500,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 130,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "sekiro-shadows-die-twice",
+        "title": "Sekiro: Shadows Die Twice",
+        "coverImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action RPG",
+          "Souls-like",
+          "Ninja"
+        ],
+        "vibeReason": "Masterpiece parry-based sword combat with Asian mythology and breathtaking boss encounters.",
+        "minRamGb": 8,
+        "minGpuScore": 3500,
+        "minCpuScore": 5000
+      },
+      {
+        "id": "star-wars-jedi-fallen-order",
+        "title": "Star Wars Jedi: Fallen Order",
+        "coverImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action Adventure",
+          "Souls-lite",
+          "Sci-Fi"
+        ],
+        "vibeReason": "Combines dynamic acrobatic combat, puzzle exploration, and cinematic boss battles with lighter specs.",
+        "minRamGb": 8,
+        "minGpuScore": 3800,
+        "minCpuScore": 6000
+      }
+    ]
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring: Shadow of the Erdtree",
+    "slug": "elden-ring",
+    "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2022,
+    "developer": "FromSoftware",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Souls-like",
+      "Dark Fantasy"
+    ],
+    "tags": [
+      "Game of the Year",
+      "Challenging",
+      "Masterpiece"
+    ],
+    "popularityRank": 3,
+    "minimum": {
+      "cpuName": "Intel Core i5-8400 / AMD Ryzen 3 3300X",
+      "cpuScore": 7500,
+      "gpuName": "NVIDIA GTX 1060 3GB / AMD RX 580 4GB",
+      "gpuScore": 4200,
+      "vramGb": 3,
+      "ramGb": 12,
+      "storageGb": 60,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-8700K / AMD Ryzen 5 3600X",
+      "cpuScore": 13500,
+      "gpuName": "NVIDIA GTX 1070 8GB / AMD RX Vega 56",
+      "gpuScore": 6800,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 60,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "dark-souls-remastered",
+        "title": "Dark Souls: Remastered",
+        "coverImage": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action RPG",
+          "Dark Fantasy",
+          "Souls"
+        ],
+        "vibeReason": "The original FromSoftware classic that defined the genre, running at a locked 60 FPS even on budget laptops.",
+        "minRamGb": 4,
+        "minGpuScore": 1800,
+        "minCpuScore": 3500
+      },
+      {
+        "id": "hollow-knight",
+        "title": "Hollow Knight",
+        "coverImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Metroidvania",
+          "Souls-like",
+          "Atmospheric"
+        ],
+        "vibeReason": "Atmospheric exploration, interconnected world design, and deeply rewarding combat that runs on any PC.",
+        "minRamGb": 4,
+        "minGpuScore": 800,
+        "minCpuScore": 2000
+      }
+    ]
+  },
+  {
+    "id": "grand-theft-auto-v",
+    "title": "Grand Theft Auto V",
+    "slug": "gta-v",
+    "coverImage": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2015,
+    "developer": "Rockstar Games",
+    "genres": [
+      "Open World",
+      "Action",
+      "Crime"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Roleplay",
+      "Classic"
+    ],
+    "popularityRank": 4,
+    "minimum": {
+      "cpuName": "Intel Core 2 Quad Q6600 / AMD Phenom 9850",
+      "cpuScore": 2200,
+      "gpuName": "NVIDIA 9800 GT 1GB / AMD HD 4870",
+      "gpuScore": 900,
+      "vramGb": 1,
+      "ramGb": 4,
+      "storageGb": 110,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5 3470 / AMD FX-8350",
+      "cpuScore": 5000,
+      "gpuName": "NVIDIA GTX 660 2GB / AMD HD 7870",
+      "gpuScore": 2400,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 110,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "sleeping-dogs",
+        "title": "Sleeping Dogs: Definitive Edition",
+        "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "Action",
+          "Martial Arts"
+        ],
+        "vibeReason": "Incredible undercover cop open-world action in vibrant Hong Kong with stellar melee combat.",
+        "minRamGb": 4,
+        "minGpuScore": 1600,
+        "minCpuScore": 3200
+      },
+      {
+        "id": "gta-san-andreas",
+        "title": "GTA: San Andreas",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "Action"
+        ],
+        "vibeReason": "The absolute sandbox classic that runs smoothly on virtually any machine.",
+        "minRamGb": 2,
+        "minGpuScore": 400,
+        "minCpuScore": 1200
+      }
+    ]
+  },
+  {
+    "id": "valorant",
+    "title": "Valorant",
+    "slug": "valorant",
+    "coverImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2020,
+    "developer": "Riot Games",
+    "genres": [
+      "Tactical Shooter",
+      "FPS",
+      "Competitive"
+    ],
+    "tags": [
+      "Esports",
+      "Optimized",
+      "Free-to-Play"
+    ],
+    "popularityRank": 5,
+    "minimum": {
+      "cpuName": "Intel Core 2 Duo E8400 / AMD Athlon 200GE",
+      "cpuScore": 1500,
+      "gpuName": "Intel HD 4000 / Radeon R5 200",
+      "gpuScore": 600,
+      "vramGb": 1,
+      "ramGb": 4,
+      "storageGb": 30,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-9400F / AMD Ryzen 5 2600X",
+      "cpuScore": 9000,
+      "gpuName": "NVIDIA GTX 1050 Ti / AMD Radeon R9 380",
+      "gpuScore": 2600,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 30,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "cs-go-classic",
+        "title": "Counter-Strike 1.6 / Source",
+        "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Tactical Shooter",
+          "FPS"
+        ],
+        "vibeReason": "The timeless tactical shooter fundamentals with razor-sharp gunplay.",
+        "minRamGb": 2,
+        "minGpuScore": 400,
+        "minCpuScore": 1500
+      }
+    ]
+  },
+  {
+    "id": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "slug": "rdr2",
+    "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2019,
+    "developer": "Rockstar Games",
+    "genres": [
+      "Open World",
+      "Action",
+      "Western",
+      "Story Rich"
+    ],
+    "tags": [
+      "Masterpiece",
+      "Photorealistic",
+      "Atmospheric"
+    ],
+    "popularityRank": 6,
+    "minimum": {
+      "cpuName": "Intel Core i5-2500K / AMD FX-6300",
+      "cpuScore": 4200,
+      "gpuName": "NVIDIA GTX 770 2GB / AMD Radeon R9 280",
+      "gpuScore": 3200,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 150,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-4770K / AMD Ryzen 5 1500X",
+      "cpuScore": 7800,
+      "gpuName": "NVIDIA GTX 1060 6GB / AMD Radeon RX 480",
+      "gpuScore": 4800,
+      "vramGb": 6,
+      "ramGb": 12,
+      "storageGb": 150,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "witcher-3",
+        "title": "The Witcher 3: Wild Hunt (DX11)",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "RPG",
+          "Story Rich"
+        ],
+        "vibeReason": "One of the greatest narrative open worlds ever made, highly optimized for older hardware.",
+        "minRamGb": 6,
+        "minGpuScore": 2800,
+        "minCpuScore": 4800
+      },
+      {
+        "id": "call-of-juarez-gunslinger",
+        "title": "Call of Juarez: Gunslinger",
+        "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Western",
+          "Action",
+          "FPS"
+        ],
+        "vibeReason": "Fast-paced arcade wild-west shooter with stylish bullet time and low system requirements.",
+        "minRamGb": 4,
+        "minGpuScore": 1200,
+        "minCpuScore": 2800
+      }
+    ]
+  },
+  {
+    "id": "counter-strike-2",
+    "title": "Counter-Strike 2",
+    "slug": "cs2",
+    "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "Valve",
+    "genres": [
+      "FPS",
+      "Tactical",
+      "Competitive"
+    ],
+    "tags": [
+      "Esports",
+      "Source 2",
+      "Multiplayer"
+    ],
+    "popularityRank": 7,
+    "minimum": {
+      "cpuName": "Intel Core i5-750 / 4-core CPU",
+      "cpuScore": 4500,
+      "gpuName": "NVIDIA GTX 960 / AMD RX 560 (1GB VRAM)",
+      "gpuScore": 2800,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 85,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-9700 / AMD Ryzen 7 3700X",
+      "cpuScore": 14000,
+      "gpuName": "NVIDIA RTX 3060 / AMD RX 6600 XT",
+      "gpuScore": 9000,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 85,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "team-fortress-2",
+        "title": "Team Fortress 2",
+        "coverImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "FPS",
+          "Hero Shooter",
+          "Class-Based"
+        ],
+        "vibeReason": "Valve classic class shooter with legendary gameplay, highly playable on integrated graphics.",
+        "minRamGb": 2,
+        "minGpuScore": 500,
+        "minCpuScore": 1800
+      }
+    ]
+  },
+  {
+    "id": "hogwarts-legacy",
+    "title": "Hogwarts Legacy",
+    "slug": "hogwarts-legacy",
+    "coverImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "Avalanche Software",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Magic"
+    ],
+    "tags": [
+      "Demanding",
+      "RAM Heavy",
+      "VRAM Heavy"
+    ],
+    "popularityRank": 8,
+    "minimum": {
+      "cpuName": "Intel Core i5-6600 / AMD Ryzen 5 1400",
+      "cpuScore": 6500,
+      "gpuName": "NVIDIA GTX 960 4GB / AMD Radeon RX 470 4GB",
+      "gpuScore": 3200,
+      "vramGb": 4,
+      "ramGb": 16,
+      "storageGb": 85,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-8700 / AMD Ryzen 5 3600",
+      "cpuScore": 12500,
+      "gpuName": "NVIDIA GTX 1080 Ti / RTX 3060 12GB",
+      "gpuScore": 9200,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 85,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "skyrim-se",
+        "title": "The Elder Scrolls V: Skyrim",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "Magic RPG",
+          "Fantasy"
+        ],
+        "vibeReason": "Deep spellcasting, magical academies, and limitless fantasy exploration that runs on modest specs.",
+        "minRamGb": 4,
+        "minGpuScore": 1800,
+        "minCpuScore": 3000
+      }
+    ]
+  },
+  {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "slug": "forza-horizon-5",
+    "coverImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2021,
+    "developer": "Playground Games",
+    "genres": [
+      "Racing",
+      "Open World",
+      "Driving"
+    ],
+    "tags": [
+      "Visual Benchmark",
+      "Well-Optimized",
+      "Cars"
+    ],
+    "popularityRank": 9,
+    "minimum": {
+      "cpuName": "Intel Core i5-4460 / AMD Ryzen 3 1200",
+      "cpuScore": 4800,
+      "gpuName": "NVIDIA GTX 970 / AMD Radeon RX 470",
+      "gpuScore": 3600,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 110,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-10700K / AMD Ryzen 7 3800XT",
+      "cpuScore": 14000,
+      "gpuName": "NVIDIA GTX 1070 / AMD Radeon RX 590 / RTX 3060",
+      "gpuScore": 7200,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 110,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "burnout-paradise",
+        "title": "Burnout Paradise Remastered",
+        "coverImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "Racing",
+          "Arcade"
+        ],
+        "vibeReason": "High-speed open-road arcade racing euphoria with ultra-smooth 60+ FPS on any hardware.",
+        "minRamGb": 4,
+        "minGpuScore": 1400,
+        "minCpuScore": 2800
+      }
+    ]
+  },
+  {
+    "id": "fortnite",
+    "title": "Fortnite (Chapter 5)",
+    "slug": "fortnite",
+    "coverImage": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2017,
+    "developer": "Epic Games",
+    "genres": [
+      "Battle Royale",
+      "Shooter",
+      "Action"
+    ],
+    "tags": [
+      "Unreal Engine 5.4",
+      "Nanite",
+      "Lumen",
+      "Performance Mode"
+    ],
+    "popularityRank": 10,
+    "minimum": {
+      "cpuName": "Intel Core i3-3225 / AMD Ryzen 3 1200",
+      "cpuScore": 2800,
+      "gpuName": "Intel HD 4000 / NVIDIA GT 1030",
+      "gpuScore": 1100,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 60,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-8700 / AMD Ryzen 7 3700X",
+      "cpuScore": 12000,
+      "gpuName": "NVIDIA RTX 2060 / AMD Radeon RX 5700 XT",
+      "gpuScore": 7500,
+      "vramGb": 6,
+      "ramGb": 16,
+      "storageGb": 60,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "paladins",
+        "title": "Paladins: Champions of the Realm",
+        "coverImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Hero Shooter",
+          "Action"
+        ],
+        "vibeReason": "Colorful hero shooter with abilities and cards, easily runs 100+ FPS on budget setups.",
+        "minRamGb": 4,
+        "minGpuScore": 1000,
+        "minCpuScore": 2200
+      }
+    ]
+  },
+  {
+    "id": "minecraft-bedrock-java",
+    "title": "Minecraft (Java & Bedrock)",
+    "slug": "minecraft",
+    "coverImage": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2011,
+    "developer": "Mojang Studios",
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Adventure"
+    ],
+    "tags": [
+      "Endless",
+      "Casual",
+      "CPU Heavy for Java"
+    ],
+    "popularityRank": 11,
+    "minimum": {
+      "cpuName": "Intel Core i3-3210 / AMD A8-7600",
+      "cpuScore": 2200,
+      "gpuName": "Intel HD 4000 / AMD Radeon R5",
+      "gpuScore": 600,
+      "vramGb": 1,
+      "ramGb": 4,
+      "storageGb": 4,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-4690 / AMD Ryzen 5 1500X",
+      "cpuScore": 6000,
+      "gpuName": "NVIDIA GeForce 700 Series / AMD Radeon Rx 200",
+      "gpuScore": 2000,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 16,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "terraria",
+        "title": "Terraria",
+        "coverImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "2D Sandbox",
+          "Survival",
+          "Adventure"
+        ],
+        "vibeReason": "2D sandbox crafting masterpiece with immense depth, bosses, and gear progression.",
+        "minRamGb": 2,
+        "minGpuScore": 300,
+        "minCpuScore": 1200
+      }
+    ]
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "slug": "baldurs-gate-3",
+    "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "Larian Studios",
+    "genres": [
+      "Turn-Based RPG",
+      "Fantasy",
+      "Story Rich"
+    ],
+    "tags": [
+      "GOTY Winner",
+      "CPU Heavy Act 3",
+      "D&D 5e"
+    ],
+    "popularityRank": 12,
+    "minimum": {
+      "cpuName": "Intel Core i5-4690 / AMD FX 8350",
+      "cpuScore": 5200,
+      "gpuName": "NVIDIA GTX 970 / AMD Radeon RX 480",
+      "gpuScore": 3800,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 150,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+      "cpuScore": 13000,
+      "gpuName": "NVIDIA RTX 2060 Super / AMD Radeon RX 5700 XT",
+      "gpuScore": 8200,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 150,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "divinity-original-sin-2",
+        "title": "Divinity: Original Sin 2 - Definitive Edition",
+        "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Turn-Based RPG",
+          "Fantasy"
+        ],
+        "vibeReason": "Larian's predecessor masterpiece featuring tactical combat, deep party synergies, and light specs.",
+        "minRamGb": 4,
+        "minGpuScore": 2000,
+        "minCpuScore": 3500
+      }
+    ]
+  },
+  {
+    "id": "witcher-3-nextgen",
+    "title": "The Witcher 3: Wild Hunt",
+    "slug": "witcher-3",
+    "coverImage": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2015,
+    "developer": "CD Projekt RED",
+    "genres": [
+      "Open World",
+      "Action RPG",
+      "Dark Fantasy"
+    ],
+    "tags": [
+      "Masterpiece",
+      "Story Rich",
+      "Gwent"
+    ],
+    "popularityRank": 13,
+    "minimum": {
+      "cpuName": "Intel Core i5-2500K / AMD Phenom II X4 940",
+      "cpuScore": 3900,
+      "gpuName": "NVIDIA GTX 660 / AMD Radeon HD 7870",
+      "gpuScore": 2400,
+      "vramGb": 2,
+      "ramGb": 6,
+      "storageGb": 50,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-3770 / AMD FX-8350",
+      "cpuScore": 6800,
+      "gpuName": "NVIDIA GTX 770 / AMD Radeon R9 290",
+      "gpuScore": 4200,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 50,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "skyrim-classic",
+        "title": "The Elder Scrolls V: Skyrim (Legendary)",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "RPG"
+        ],
+        "vibeReason": "Expansive monster slaying, wilderness roaming, and swords & sorcery.",
+        "minRamGb": 4,
+        "minGpuScore": 1200,
+        "minCpuScore": 2500
+      }
+    ]
+  },
+  {
+    "id": "apex-legends",
+    "title": "Apex Legends",
+    "slug": "apex-legends",
+    "coverImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2019,
+    "developer": "Respawn Entertainment",
+    "genres": [
+      "Battle Royale",
+      "Fast-Paced FPS",
+      "Hero Shooter"
+    ],
+    "tags": [
+      "Movement Tech",
+      "Esports",
+      "Competitive"
+    ],
+    "popularityRank": 14,
+    "minimum": {
+      "cpuName": "Intel Core i3-6300 / AMD FX-4350",
+      "cpuScore": 3600,
+      "gpuName": "NVIDIA GeForce GT 640 / Radeon HD 7730",
+      "gpuScore": 1500,
+      "vramGb": 1,
+      "ramGb": 6,
+      "storageGb": 75,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-3570K / AMD Ryzen 5",
+      "cpuScore": 6500,
+      "gpuName": "NVIDIA GeForce GTX 970 / AMD Radeon R9 290",
+      "gpuScore": 4000,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 75,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "titanfall-2",
+        "title": "Titanfall 2",
+        "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "FPS",
+          "Movement",
+          "Sci-Fi"
+        ],
+        "vibeReason": "Created by the same developers, with the same gunplay, sliding, and wall-running at double the frame rates.",
+        "minRamGb": 4,
+        "minGpuScore": 2200,
+        "minCpuScore": 3500
+      }
+    ]
+  },
+  {
+    "id": "cod-warzone",
+    "title": "Call of Duty: Warzone",
+    "slug": "warzone",
+    "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "Infinity Ward / Raven",
+    "genres": [
+      "Battle Royale",
+      "FPS",
+      "Military"
+    ],
+    "tags": [
+      "Heavy VRAM",
+      "Large Map",
+      "Competitive"
+    ],
+    "popularityRank": 15,
+    "minimum": {
+      "cpuName": "Intel Core i5-6600 / AMD Ryzen 5 1400",
+      "cpuScore": 6800,
+      "gpuName": "NVIDIA GTX 960 / AMD Radeon RX 470",
+      "gpuScore": 3500,
+      "vramGb": 3,
+      "ramGb": 8,
+      "storageGb": 125,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-8700K / AMD Ryzen 7 2700X",
+      "cpuScore": 13500,
+      "gpuName": "NVIDIA RTX 3060 / AMD Radeon RX 6600 XT",
+      "gpuScore": 9200,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 125,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "cod-mw2-classic",
+        "title": "Call of Duty: Modern Warfare Remastered",
+        "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "FPS",
+          "Shooter"
+        ],
+        "vibeReason": "Classic military gunplay and iconic maps running at an easy 100+ FPS.",
+        "minRamGb": 6,
+        "minGpuScore": 2400,
+        "minCpuScore": 3500
+      }
+    ]
+  },
+  {
+    "id": "helldivers-2",
+    "title": "Helldivers 2",
+    "slug": "helldivers-2",
+    "coverImage": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2024,
+    "developer": "Arrowhead Game Studios",
+    "genres": [
+      "Co-op Shooter",
+      "Third-Person",
+      "Sci-Fi"
+    ],
+    "tags": [
+      "Chaotic",
+      "CPU Intensive",
+      "Explosions"
+    ],
+    "popularityRank": 16,
+    "minimum": {
+      "cpuName": "Intel Core i7-4790K / AMD Ryzen 5 1500X",
+      "cpuScore": 7200,
+      "gpuName": "NVIDIA GTX 1050 Ti 4GB / AMD RX 470 4GB",
+      "gpuScore": 3200,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 100,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-9700K / AMD Ryzen 7 3700X",
+      "cpuScore": 14000,
+      "gpuName": "NVIDIA RTX 2060 / AMD Radeon RX 6600 XT",
+      "gpuScore": 8800,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 100,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "deep-rock-galactic",
+        "title": "Deep Rock Galactic",
+        "coverImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Co-op Shooter",
+          "Procedural",
+          "Sci-Fi"
+        ],
+        "vibeReason": "Glorious 4-player procedural bug shooting and extraction gameplay with superb performance on any laptop.",
+        "minRamGb": 6,
+        "minGpuScore": 1800,
+        "minCpuScore": 3200
+      }
+    ]
+  },
+  {
+    "id": "palworld",
+    "title": "Palworld",
+    "slug": "palworld",
+    "coverImage": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2024,
+    "developer": "Pocketpair",
+    "genres": [
+      "Open World",
+      "Survival Craft",
+      "Creature Collector"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Base Building",
+      "Unreal Engine 5"
+    ],
+    "popularityRank": 17,
+    "minimum": {
+      "cpuName": "Intel Core i5-3570K / AMD Ryzen 5",
+      "cpuScore": 5500,
+      "gpuName": "NVIDIA GTX 1050 2GB / AMD Radeon R9",
+      "gpuScore": 2800,
+      "vramGb": 2,
+      "ramGb": 16,
+      "storageGb": 40,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i9-9900K / AMD Ryzen 7 3700X",
+      "cpuScore": 15000,
+      "gpuName": "NVIDIA RTX 2070 / AMD Radeon RX 5700",
+      "gpuScore": 9500,
+      "vramGb": 8,
+      "ramGb": 32,
+      "storageGb": 40,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "valheim",
+        "title": "Valheim",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Survival",
+          "Co-op",
+          "Viking"
+        ],
+        "vibeReason": "Deep base construction, boss progression, and wilderness survival with low hardware demands.",
+        "minRamGb": 8,
+        "minGpuScore": 2200,
+        "minCpuScore": 3500
+      }
+    ]
+  },
+  {
+    "id": "god-of-war",
+    "title": "God of War (PC)",
+    "slug": "god-of-war",
+    "coverImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2022,
+    "developer": "Santa Monica Studio",
+    "genres": [
+      "Action Adventure",
+      "Mythology",
+      "Hack and Slash"
+    ],
+    "tags": [
+      "PlayStation Hit",
+      "Cinematic",
+      "Story Masterpiece"
+    ],
+    "popularityRank": 18,
+    "minimum": {
+      "cpuName": "Intel Core i5-2500K / AMD Ryzen 3 1200",
+      "cpuScore": 4500,
+      "gpuName": "NVIDIA GTX 960 4GB / AMD R9 290X 4GB",
+      "gpuScore": 3400,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 70,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-6600K / AMD Ryzen 5 2400G",
+      "cpuScore": 7500,
+      "gpuName": "NVIDIA GTX 1060 6GB / AMD RX 570 4GB",
+      "gpuScore": 4800,
+      "vramGb": 6,
+      "ramGb": 16,
+      "storageGb": 70,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "hellblade-senuas-sacrifice",
+        "title": "Hellblade: Senua's Sacrifice",
+        "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action",
+          "Norse Mythology",
+          "Psychological"
+        ],
+        "vibeReason": "Norse myth, visceral swordplay, and unmatched atmospheric storytelling.",
+        "minRamGb": 8,
+        "minGpuScore": 2800,
+        "minCpuScore": 4000
+      }
+    ]
+  },
+  {
+    "id": "spiderman-remastered",
+    "title": "Marvel's Spider-Man Remastered",
+    "slug": "spiderman-remastered",
+    "coverImage": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2022,
+    "developer": "Insomniac Games / Nixxes",
+    "genres": [
+      "Open World",
+      "Action",
+      "Superhero"
+    ],
+    "tags": [
+      "Web Swinging",
+      "Ray Tracing",
+      "New York"
+    ],
+    "popularityRank": 19,
+    "minimum": {
+      "cpuName": "Intel Core i3-4160 / AMD equivalent",
+      "cpuScore": 3500,
+      "gpuName": "NVIDIA GTX 950 / AMD Radeon RX 470",
+      "gpuScore": 2600,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 75,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-4670 / AMD Ryzen 5 1600",
+      "cpuScore": 7800,
+      "gpuName": "NVIDIA GTX 1060 6GB / AMD RX 580 8GB",
+      "gpuScore": 4800,
+      "vramGb": 6,
+      "ramGb": 16,
+      "storageGb": 75,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "batman-arkham-city",
+        "title": "Batman: Arkham City",
+        "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Open World",
+          "Superhero",
+          "Combat"
+        ],
+        "vibeReason": "The gold standard superhero combat and city gliding that runs at 100+ FPS anywhere.",
+        "minRamGb": 4,
+        "minGpuScore": 1200,
+        "minCpuScore": 2500
+      }
+    ]
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "slug": "alan-wake-2",
+    "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "Remedy Entertainment",
+    "genres": [
+      "Survival Horror",
+      "Psychological",
+      "Story Rich"
+    ],
+    "tags": [
+      "Mesh Shaders Required",
+      "Extremely Demanding",
+      "Path Tracing"
+    ],
+    "popularityRank": 20,
+    "minimum": {
+      "cpuName": "Intel Core i5-7600K / AMD Ryzen 5 3600",
+      "cpuScore": 8500,
+      "gpuName": "NVIDIA RTX 2060 6GB / AMD RX 6600",
+      "gpuScore": 7500,
+      "vramGb": 6,
+      "ramGb": 16,
+      "storageGb": 90,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+      "cpuScore": 15000,
+      "gpuName": "NVIDIA RTX 3070 / AMD Radeon RX 6700 XT",
+      "gpuScore": 13500,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 90,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "control-remedy",
+        "title": "Control: Ultimate Edition",
+        "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Action",
+          "Supernatural",
+          "Sci-Fi"
+        ],
+        "vibeReason": "Same Remedy connected universe, mind-bending architecture, and telekinesis with much lighter specs.",
+        "minRamGb": 8,
+        "minGpuScore": 3500,
+        "minCpuScore": 5000
+      }
+    ]
+  },
+  {
+    "id": "rainbow-six-siege",
+    "title": "Tom Clancy’s Rainbow Six Siege",
+    "slug": "rainbow-six-siege",
+    "coverImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2015,
+    "developer": "Ubisoft",
+    "genres": [
+      "Tactical Shooter",
+      "FPS",
+      "Multiplayer"
+    ],
+    "tags": [
+      "Destructible Walls",
+      "Esports",
+      "Optimized"
+    ],
+    "popularityRank": 21,
+    "minimum": {
+      "cpuName": "Intel Core i3 560 / AMD Phenom II X4",
+      "cpuScore": 2200,
+      "gpuName": "NVIDIA GTX 460 / AMD Radeon HD 5870",
+      "gpuScore": 1400,
+      "vramGb": 1,
+      "ramGb": 6,
+      "storageGb": 61,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-2500K / AMD FX-8120",
+      "cpuScore": 4800,
+      "gpuName": "NVIDIA GTX 670 / AMD Radeon HD 7970",
+      "gpuScore": 3200,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 61,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "cs-source",
+        "title": "Counter-Strike: Source",
+        "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Tactical FPS"
+        ],
+        "vibeReason": "Crisp precision corner checking and tactical bomb defusal.",
+        "minRamGb": 2,
+        "minGpuScore": 500,
+        "minCpuScore": 1500
+      }
+    ]
+  },
+  {
+    "id": "league-of-legends",
+    "title": "League of Legends",
+    "slug": "league-of-legends",
+    "coverImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2009,
+    "developer": "Riot Games",
+    "genres": [
+      "MOBA",
+      "Strategy",
+      "Competitive"
+    ],
+    "tags": [
+      "Esports Giant",
+      "Runs on Anything",
+      "Free-to-Play"
+    ],
+    "popularityRank": 22,
+    "minimum": {
+      "cpuName": "Intel Core i3-530 / AMD A6-3650",
+      "cpuScore": 1200,
+      "gpuName": "Intel HD 4600 / GeForce 9600GT",
+      "gpuScore": 600,
+      "vramGb": 1,
+      "ramGb": 4,
+      "storageGb": 16,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "Intel Core i5-3300 / AMD Ryzen 3 1200",
+      "cpuScore": 4200,
+      "gpuName": "NVIDIA GeForce GTX 560 / Radeon HD 6950",
+      "gpuScore": 1600,
+      "vramGb": 2,
+      "ramGb": 8,
+      "storageGb": 16,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "dota-2",
+        "title": "Dota 2",
+        "coverImage": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "MOBA",
+          "Strategy"
+        ],
+        "vibeReason": "Valve’s iconic competitive MOBA with deep strategic mechanics and high scalability.",
+        "minRamGb": 4,
+        "minGpuScore": 800,
+        "minCpuScore": 2000
+      }
+    ]
+  },
+  {
+    "id": "rocket-league",
+    "title": "Rocket League",
+    "slug": "rocket-league",
+    "coverImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2015,
+    "developer": "Psyonix",
+    "genres": [
+      "Sports",
+      "Arcade",
+      "Cars"
+    ],
+    "tags": [
+      "Rocket Soccer",
+      "Ultra Fluid",
+      "Crossplay"
+    ],
+    "popularityRank": 23,
+    "minimum": {
+      "cpuName": "2.5 GHz Dual core CPU",
+      "cpuScore": 1800,
+      "gpuName": "NVIDIA GeForce 760 / AMD Radeon R7 260X",
+      "gpuScore": 1600,
+      "vramGb": 1,
+      "ramGb": 4,
+      "storageGb": 20,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "3.0+ GHz Quad core CPU",
+      "cpuScore": 4500,
+      "gpuName": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 470",
+      "gpuScore": 4000,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 20,
+      "isSsdRequired": false
+    },
+    "similarLighterGames": [
+      {
+        "id": "trackmania",
+        "title": "Trackmania",
+        "coverImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Arcade Racing"
+        ],
+        "vibeReason": "High-velocity acrobatic car physics with instant restarts.",
+        "minRamGb": 4,
+        "minGpuScore": 1200,
+        "minCpuScore": 2500
+      }
+    ]
+  },
+  {
+    "id": "resident-evil-4-remake",
+    "title": "Resident Evil 4 Remake",
+    "slug": "re4-remake",
+    "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2023,
+    "developer": "Capcom",
+    "genres": [
+      "Action Horror",
+      "Third-Person",
+      "Survival"
+    ],
+    "tags": [
+      "RE Engine",
+      "Gorgeous",
+      "Leon Kennedy"
+    ],
+    "popularityRank": 24,
+    "minimum": {
+      "cpuName": "AMD Ryzen 3 1200 / Intel Core i5-7500",
+      "cpuScore": 5600,
+      "gpuName": "AMD Radeon RX 560 4GB / NVIDIA GTX 1050 Ti 4GB",
+      "gpuScore": 2800,
+      "vramGb": 4,
+      "ramGb": 8,
+      "storageGb": 60,
+      "isSsdRequired": false
+    },
+    "recommended": {
+      "cpuName": "AMD Ryzen 5 3600 / Intel Core i7 8700",
+      "cpuScore": 12000,
+      "gpuName": "AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070",
+      "gpuScore": 6800,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 60,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "re2-remake",
+        "title": "Resident Evil 2 Remake",
+        "coverImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Survival Horror"
+        ],
+        "vibeReason": "Same incredible RE Engine atmosphere running with 30% lower hardware demands.",
+        "minRamGb": 8,
+        "minGpuScore": 2600,
+        "minCpuScore": 4000
+      }
+    ]
+  },
+  {
+    "id": "rust",
+    "title": "Rust",
+    "slug": "rust",
+    "coverImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1600&q=80",
+    "releaseYear": 2018,
+    "developer": "Facepunch Studios",
+    "genres": [
+      "Survival",
+      "Multiplayer",
+      "Open World"
+    ],
+    "tags": [
+      "RAM Heavy (16GB Min)",
+      "Raiding",
+      "PVP"
+    ],
+    "popularityRank": 25,
+    "minimum": {
+      "cpuName": "Intel Core i7-3770 / AMD FX-9590",
+      "cpuScore": 6200,
+      "gpuName": "GTX 670 2GB / AMD R9 280",
+      "gpuScore": 3200,
+      "vramGb": 3,
+      "ramGb": 10,
+      "storageGb": 30,
+      "isSsdRequired": true
+    },
+    "recommended": {
+      "cpuName": "Intel Core i7-8700K / AMD Ryzen 5 2600",
+      "cpuScore": 12000,
+      "gpuName": "GTX 1080 / AMD Radeon RX Vega 64",
+      "gpuScore": 7800,
+      "vramGb": 8,
+      "ramGb": 16,
+      "storageGb": 30,
+      "isSsdRequired": true
+    },
+    "similarLighterGames": [
+      {
+        "id": "7-days-to-die",
+        "title": "7 Days to Die",
+        "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "genres": [
+          "Survival Craft",
+          "Zombies"
+        ],
+        "vibeReason": "Base fortification, resource hoarding, and survival tension.",
+        "minRamGb": 8,
+        "minGpuScore": 2000,
+        "minCpuScore": 3500
+      }
+    ]
+  }
+]

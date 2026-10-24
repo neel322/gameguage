@@ -1,0 +1,1004 @@
+{
+  "cpus": [
+    {
+      "id": "cpu-i9-14900k",
+      "name": "Intel Core i9-14900K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 34000,
+      "typicalPriceUsd": 550,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "cpu-i7-14700k",
+      "name": "Intel Core i7-14700K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 30500,
+      "typicalPriceUsd": 400,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "cpu-i5-14600k",
+      "name": "Intel Core i5-14600K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 25000,
+      "typicalPriceUsd": 300,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-i7-13700k",
+      "name": "Intel Core i7-13700K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 28500,
+      "typicalPriceUsd": 360,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-i5-13600k",
+      "name": "Intel Core i5-13600K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 24000,
+      "typicalPriceUsd": 270,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-i5-13400f",
+      "name": "Intel Core i5-13400F",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 18500,
+      "typicalPriceUsd": 185,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i5-12400f",
+      "name": "Intel Core i5-12400F",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 15500,
+      "typicalPriceUsd": 130,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i3-12100f",
+      "name": "Intel Core i3-12100F",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 10500,
+      "typicalPriceUsd": 90,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i7-10700k",
+      "name": "Intel Core i7-10700K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 14500,
+      "typicalPriceUsd": 180,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i5-10400f",
+      "name": "Intel Core i5-10400F",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 10000,
+      "typicalPriceUsd": 100,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-i7-7700k",
+      "name": "Intel Core i7-7700K",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 7500,
+      "typicalPriceUsd": 110,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-i5-8400",
+      "name": "Intel Core i5-8400",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 6800,
+      "typicalPriceUsd": 85,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-i5-4460",
+      "name": "Intel Core i5-4460",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 3800,
+      "typicalPriceUsd": 40,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-i3-10100",
+      "name": "Intel Core i3-10100",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 6400,
+      "typicalPriceUsd": 75,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-r7-7800x3d",
+      "name": "AMD Ryzen 7 7800X3D (Best Gaming)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 32000,
+      "typicalPriceUsd": 450,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "cpu-r9-7950x",
+      "name": "AMD Ryzen 9 7950X",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 33500,
+      "typicalPriceUsd": 520,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "cpu-r7-7700x",
+      "name": "AMD Ryzen 7 7700X",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 26000,
+      "typicalPriceUsd": 290,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-r5-7600x",
+      "name": "AMD Ryzen 5 7600X",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 21500,
+      "typicalPriceUsd": 200,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-r7-5800x3d",
+      "name": "AMD Ryzen 7 5800X3D",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 22500,
+      "typicalPriceUsd": 310,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-r7-5700x",
+      "name": "AMD Ryzen 7 5700X",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 18000,
+      "typicalPriceUsd": 160,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r5-5600x",
+      "name": "AMD Ryzen 5 5600X",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 16500,
+      "typicalPriceUsd": 135,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r5-5600",
+      "name": "AMD Ryzen 5 5600",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 15500,
+      "typicalPriceUsd": 120,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r5-3600",
+      "name": "AMD Ryzen 5 3600",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 12500,
+      "typicalPriceUsd": 85,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r3-3100",
+      "name": "AMD Ryzen 3 3100",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 7200,
+      "typicalPriceUsd": 65,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-r5-2600",
+      "name": "AMD Ryzen 5 2600",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 9500,
+      "typicalPriceUsd": 70,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-r5-1600",
+      "name": "AMD Ryzen 5 1600",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "desktop",
+      "score": 7800,
+      "typicalPriceUsd": 55,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-i9-14900hx",
+      "name": "Intel Core i9-14900HX (Laptop)",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 28000,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "cpu-i7-13700h",
+      "name": "Intel Core i7-13700H (Laptop)",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 22000,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-i5-13420h",
+      "name": "Intel Core i5-13420H (Laptop)",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 14500,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i5-12450h",
+      "name": "Intel Core i5-12450H (Laptop)",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 13500,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i5-11400h",
+      "name": "Intel Core i5-11400H (Laptop)",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 11500,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-i5-1135g7",
+      "name": "Intel Core i5-1135G7 (Ultrabook)",
+      "brand": "Intel",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 7200,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-r7-7840hs",
+      "name": "AMD Ryzen 7 7840HS (Laptop)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 22500,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-r7-7735hs",
+      "name": "AMD Ryzen 7 7735HS (Laptop)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 18500,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-r5-7535hs",
+      "name": "AMD Ryzen 5 7535HS (Laptop)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 14000,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r7-5800h",
+      "name": "AMD Ryzen 7 5800H (Laptop)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 15500,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r5-5600h",
+      "name": "AMD Ryzen 5 5600H (Laptop)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 13000,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-r5-5500u",
+      "name": "AMD Ryzen 5 5500U (Ultrabook)",
+      "brand": "AMD",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 9800,
+      "tier": "low"
+    },
+    {
+      "id": "cpu-apple-m3",
+      "name": "Apple M3 Chip (Laptop)",
+      "brand": "Apple",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 17000,
+      "tier": "high"
+    },
+    {
+      "id": "cpu-apple-m2",
+      "name": "Apple M2 Chip (Laptop)",
+      "brand": "Apple",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 14000,
+      "tier": "mid"
+    },
+    {
+      "id": "cpu-apple-m1",
+      "name": "Apple M1 Chip (Laptop)",
+      "brand": "Apple",
+      "type": "cpu",
+      "platform": "laptop",
+      "score": 11000,
+      "tier": "mid"
+    }
+  ],
+  "gpus": [
+    {
+      "id": "gpu-rtx-4090",
+      "name": "NVIDIA GeForce RTX 4090",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 28500,
+      "vramGb": 24,
+      "typicalPriceUsd": 1750,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "gpu-rtx-4080-super",
+      "name": "NVIDIA GeForce RTX 4080 Super",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 24000,
+      "vramGb": 16,
+      "typicalPriceUsd": 999,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "gpu-rtx-4070-ti-super",
+      "name": "NVIDIA GeForce RTX 4070 Ti Super",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 21000,
+      "vramGb": 16,
+      "typicalPriceUsd": 799,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rtx-4070-super",
+      "name": "NVIDIA GeForce RTX 4070 Super",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 18500,
+      "vramGb": 12,
+      "typicalPriceUsd": 599,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rtx-4060-ti",
+      "name": "NVIDIA GeForce RTX 4060 Ti",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 13500,
+      "vramGb": 8,
+      "typicalPriceUsd": 380,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rtx-4060",
+      "name": "NVIDIA GeForce RTX 4060",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 11000,
+      "vramGb": 8,
+      "typicalPriceUsd": 295,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rtx-3080",
+      "name": "NVIDIA GeForce RTX 3080",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 17500,
+      "vramGb": 10,
+      "typicalPriceUsd": 450,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rtx-3070",
+      "name": "NVIDIA GeForce RTX 3070",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 14500,
+      "vramGb": 8,
+      "typicalPriceUsd": 320,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rtx-3060-12gb",
+      "name": "NVIDIA GeForce RTX 3060 12GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 9500,
+      "vramGb": 12,
+      "typicalPriceUsd": 260,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rtx-3050",
+      "name": "NVIDIA GeForce RTX 3050 8GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 6200,
+      "vramGb": 8,
+      "typicalPriceUsd": 190,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rtx-2060",
+      "name": "NVIDIA GeForce RTX 2060 6GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 7500,
+      "vramGb": 6,
+      "typicalPriceUsd": 160,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-gtx-1660-super",
+      "name": "NVIDIA GeForce GTX 1660 Super",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 6400,
+      "vramGb": 6,
+      "typicalPriceUsd": 140,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-gtx-1650",
+      "name": "NVIDIA GeForce GTX 1650 4GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 3900,
+      "vramGb": 4,
+      "typicalPriceUsd": 115,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-gtx-1060-6gb",
+      "name": "NVIDIA GeForce GTX 1060 6GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 4800,
+      "vramGb": 6,
+      "typicalPriceUsd": 95,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-gtx-1050-ti",
+      "name": "NVIDIA GeForce GTX 1050 Ti 4GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 2600,
+      "vramGb": 4,
+      "typicalPriceUsd": 70,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-gtx-970",
+      "name": "NVIDIA GeForce GTX 970 4GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 3800,
+      "vramGb": 4,
+      "typicalPriceUsd": 65,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-gt-1030",
+      "name": "NVIDIA GeForce GT 1030 2GB",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 1100,
+      "vramGb": 2,
+      "typicalPriceUsd": 60,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-rx-7900-xtx",
+      "name": "AMD Radeon RX 7900 XTX",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 25000,
+      "vramGb": 24,
+      "typicalPriceUsd": 920,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "gpu-rx-7800-xt",
+      "name": "AMD Radeon RX 7800 XT",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 18000,
+      "vramGb": 16,
+      "typicalPriceUsd": 490,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rx-7700-xt",
+      "name": "AMD Radeon RX 7700 XT",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 15500,
+      "vramGb": 12,
+      "typicalPriceUsd": 399,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rx-7600",
+      "name": "AMD Radeon RX 7600 8GB",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 10500,
+      "vramGb": 8,
+      "typicalPriceUsd": 255,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rx-6700-xt",
+      "name": "AMD Radeon RX 6700 XT",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 13000,
+      "vramGb": 12,
+      "typicalPriceUsd": 320,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rx-6600",
+      "name": "AMD Radeon RX 6600 8GB",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 8800,
+      "vramGb": 8,
+      "typicalPriceUsd": 199,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rx-580-8gb",
+      "name": "AMD Radeon RX 580 8GB",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 4400,
+      "vramGb": 8,
+      "typicalPriceUsd": 80,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-rx-570",
+      "name": "AMD Radeon RX 570 4GB",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "desktop",
+      "score": 3700,
+      "vramGb": 4,
+      "typicalPriceUsd": 65,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-rtx-4080-laptop",
+      "name": "NVIDIA RTX 4080 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 17500,
+      "vramGb": 12,
+      "tier": "enthusiast"
+    },
+    {
+      "id": "gpu-rtx-4070-laptop",
+      "name": "NVIDIA RTX 4070 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 13000,
+      "vramGb": 8,
+      "tier": "high"
+    },
+    {
+      "id": "gpu-rtx-4060-laptop",
+      "name": "NVIDIA RTX 4060 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 10200,
+      "vramGb": 8,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rtx-4050-laptop",
+      "name": "NVIDIA RTX 4050 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 8200,
+      "vramGb": 6,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rtx-3060-laptop",
+      "name": "NVIDIA RTX 3060 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 8000,
+      "vramGb": 6,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-rtx-3050-laptop",
+      "name": "NVIDIA RTX 3050 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 5200,
+      "vramGb": 4,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-gtx-1650-laptop",
+      "name": "NVIDIA GTX 1650 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 3300,
+      "vramGb": 4,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-rtx-2050-laptop",
+      "name": "NVIDIA RTX 2050 Mobile (Laptop)",
+      "brand": "NVIDIA",
+      "type": "gpu",
+      "platform": "laptop",
+      "score": 4200,
+      "vramGb": 4,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-radeon-780m",
+      "name": "AMD Radeon 780M (Integrated)",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 3200,
+      "vramGb": 2,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-radeon-680m",
+      "name": "AMD Radeon 680M (Integrated)",
+      "brand": "AMD",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 2600,
+      "vramGb": 2,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-intel-iris-xe",
+      "name": "Intel Iris Xe Graphics (Integrated)",
+      "brand": "Intel",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 1600,
+      "vramGb": 1.5,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-intel-uhd-630",
+      "name": "Intel UHD Graphics 630 (Integrated)",
+      "brand": "Intel",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 650,
+      "vramGb": 1,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-apple-m3-gpu",
+      "name": "Apple M3 10-core GPU",
+      "brand": "Apple",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 6800,
+      "vramGb": 8,
+      "tier": "mid"
+    },
+    {
+      "id": "gpu-apple-m2-gpu",
+      "name": "Apple M2 8-core GPU",
+      "brand": "Apple",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 5100,
+      "vramGb": 8,
+      "tier": "low"
+    },
+    {
+      "id": "gpu-apple-m1-gpu",
+      "name": "Apple M1 8-core GPU",
+      "brand": "Apple",
+      "type": "gpu",
+      "platform": "integrated",
+      "score": 3900,
+      "vramGb": 8,
+      "tier": "low"
+    }
+  ],
+  "coolers": [
+    {
+      "id": "cooler-thermalright-pa120",
+      "name": "Thermalright Peerless Assassin 120 SE",
+      "type": "air_tower",
+      "maxTdpWatts": 245,
+      "priceUsd": 36,
+      "fanRpm": "1550 RPM Dual Fans",
+      "noiseDb": "25.6 dBA (Whisper Quiet)"
+    },
+    {
+      "id": "cooler-deepcool-ak400",
+      "name": "DeepCool AK400 Performance Air Cooler",
+      "type": "air_tower",
+      "maxTdpWatts": 180,
+      "priceUsd": 32,
+      "fanRpm": "1850 RPM FDB",
+      "noiseDb": "28 dBA"
+    },
+    {
+      "id": "cooler-arctic-lf3-240",
+      "name": "ARCTIC Liquid Freezer III 240 A-RGB",
+      "type": "aio_240",
+      "maxTdpWatts": 280,
+      "priceUsd": 89,
+      "fanRpm": "2000 RPM PWM + VRM Fan",
+      "noiseDb": "22.5 dBA"
+    },
+    {
+      "id": "cooler-nzxt-kraken-360",
+      "name": "NZXT Kraken Elite 360 RGB LCD AIO",
+      "type": "aio_360",
+      "maxTdpWatts": 350,
+      "priceUsd": 229,
+      "fanRpm": "2400 RPM High Static",
+      "noiseDb": "30 dBA (LCD Screen)"
+    },
+    {
+      "id": "cooler-bequiet-drp5",
+      "name": "be quiet! Dark Rock Pro 5 Stealth",
+      "type": "air_tower",
+      "maxTdpWatts": 270,
+      "priceUsd": 95,
+      "fanRpm": "2000 RPM Silent Wings",
+      "noiseDb": "23.3 dBA"
+    },
+    {
+      "id": "cooler-stock-boxed",
+      "name": "Stock AMD Wraith / Intel Boxed Cooler",
+      "type": "stock",
+      "maxTdpWatts": 65,
+      "priceUsd": 0,
+      "fanRpm": "2200 RPM Standard",
+      "noiseDb": "34 dBA (Audible under load)"
+    }
+  ],
+  "cases": [
+    {
+      "id": "case-corsair-4000d",
+      "name": "Corsair 4000D Airflow",
+      "airflowType": "High Airflow Mesh",
+      "includedFans": "2x 120mm AirGuide Fans",
+      "priceUsd": 89,
+      "formFactor": "ATX Mid-Tower"
+    },
+    {
+      "id": "case-lianli-216",
+      "name": "Lian Li LANCOOL 216 RGB",
+      "airflowType": "High Airflow Mesh",
+      "includedFans": "2x 160mm ARGB + 1x 140mm Fan",
+      "priceUsd": 99,
+      "formFactor": "ATX Mid-Tower"
+    },
+    {
+      "id": "case-nzxt-h5-flow",
+      "name": "NZXT H5 Flow (Dedicated GPU Fan)",
+      "airflowType": "Compact Airflow",
+      "includedFans": "2x Fans + Angled Floor GPU Fan",
+      "priceUsd": 85,
+      "formFactor": "Compact ATX"
+    },
+    {
+      "id": "case-montech-903",
+      "name": "Montech AIR 903 MAX (Best Value)",
+      "airflowType": "High Airflow Mesh",
+      "includedFans": "4x 140mm High Airflow PWM Fans",
+      "priceUsd": 75,
+      "formFactor": "ATX Mid-Tower"
+    },
+    {
+      "id": "case-lianli-o11-evo",
+      "name": "Lian Li O11 Dynamic EVO (Showcase)",
+      "airflowType": "Dual Chamber Panoramic",
+      "includedFans": "No Fans Included (Showcase Case)",
+      "priceUsd": 159,
+      "formFactor": "Dual Chamber ATX"
+    },
+    {
+      "id": "case-deepcool-cc560",
+      "name": "DeepCool CC560 V2 Mesh",
+      "airflowType": "Budget Entry",
+      "includedFans": "4x Pre-installed LED Fans",
+      "priceUsd": 55,
+      "formFactor": "Budget ATX"
+    }
+  ],
+  "monitors": [
+    {
+      "id": "mon-aoc-24g2",
+      "name": "AOC 24G2SP 24\" Fast Gaming Display",
+      "resolution": "1080p",
+      "refreshRateHz": 165,
+      "panelType": "IPS",
+      "responseTime": "1ms MPRT",
+      "priceUsd": 129,
+      "screenSize": "24 inch FHD"
+    },
+    {
+      "id": "mon-asus-vg259qm",
+      "name": "ASUS TUF VG259QM Esports Pro",
+      "resolution": "1080p",
+      "refreshRateHz": 280,
+      "panelType": "IPS",
+      "responseTime": "0.5ms GtG",
+      "priceUsd": 249,
+      "screenSize": "24.5 inch FHD"
+    },
+    {
+      "id": "mon-dell-g2724d",
+      "name": "Dell G2724D Fast IPS QHD",
+      "resolution": "1440p",
+      "refreshRateHz": 165,
+      "panelType": "IPS",
+      "responseTime": "1ms GtG G-Sync",
+      "priceUsd": 199,
+      "screenSize": "27 inch 1440p"
+    },
+    {
+      "id": "mon-lg-27gp850",
+      "name": "LG 27GP850-B UltraGear Nano IPS",
+      "resolution": "1440p",
+      "refreshRateHz": 180,
+      "panelType": "IPS",
+      "responseTime": "1ms Nano-IPS",
+      "priceUsd": 289,
+      "screenSize": "27 inch 1440p"
+    },
+    {
+      "id": "mon-asus-oled-27",
+      "name": "ASUS ROG Swift OLED PG27AQDM",
+      "resolution": "1440p",
+      "refreshRateHz": 240,
+      "panelType": "OLED",
+      "responseTime": "0.03ms Infinite Contrast",
+      "priceUsd": 749,
+      "screenSize": "27 inch OLED"
+    },
+    {
+      "id": "mon-samsung-neo-g8",
+      "name": "Samsung Odyssey Neo G8 4K Flagship",
+      "resolution": "4K",
+      "refreshRateHz": 240,
+      "panelType": "Fast VA",
+      "responseTime": "1ms Quantum Mini-LED",
+      "priceUsd": 899,
+      "screenSize": "32 inch 4K"
+    },
+    {
+      "id": "mon-office-60hz",
+      "name": "Standard 24\" 60Hz Office Monitor",
+      "resolution": "1080p",
+      "refreshRateHz": 60,
+      "panelType": "IPS",
+      "responseTime": "5ms Standard",
+      "priceUsd": 89,
+      "screenSize": "24 inch FHD"
+    }
+  ]
+}
